@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array 1/Array 1.iml" filepath="$PROJECT_DIR$/Array 1/Array 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array 2/Array 2.iml" filepath="$PROJECT_DIR$/Array 2/Array 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array List 1/Array List 1.iml" filepath="$PROJECT_DIR$/Array List 1/Array List 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 1/Lecture 1.iml" filepath="$PROJECT_DIR$/Lecture 1/Lecture 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems Data Structure.iml" filepath="$PROJECT_DIR$/problems Data Structure.iml" />
+    </modules>
+  </component>
+</project>
